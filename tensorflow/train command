@@ -1,0 +1,2 @@
+python function/train_evaluate_s3dis.py --cfg .\cfgs\s3dis\pospool_xyz_mean.yaml
+python function/train_evaluate_s3dis.py --cfg /home/yaodong/Desktop/Novel_PointCloud/CloserLook3D-master/tensorflow/cfgs/s3dis/pospool_xyz_mean.yaml
